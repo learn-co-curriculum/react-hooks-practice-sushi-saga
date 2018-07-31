@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import SushiContainer from './containers/SushiContainer';
 import Table from './containers/Table';
 
-const API = "http://localhost:3000/api/v1/sushis"
+const API = "http://localhost:3000/sushis"
 
 class App extends Component {
 
