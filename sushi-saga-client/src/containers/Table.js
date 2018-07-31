@@ -4,7 +4,7 @@ const Table = (props) => {
 
   const renderPlates = (array) => {
     return array.map((x, index) => {
-      return <div className="empty-plate" style={{ top: -10 * index }}/>
+      return <div className="empty-plate" style={{ top: -7 * index }}/>
     })
   }
 
