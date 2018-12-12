@@ -20,7 +20,7 @@ To get you going, we've got a backend just chock full of sushi just waiting to b
 
 
 ### Client
-Just as all good sushi needs a firm base of delicious rice, we've given you quite a bit of code to start off your frontend! 
+Just as all good sushi needs a firm base of delicious rice, we've given you quite a bit of code to start off your frontend!
 
 This will be located within the `sushi-saga-client` directory of this repo. Inside are all the components you'll need, as well as instructions as to where and how to render those components properly.
 
@@ -34,10 +34,10 @@ Be sure to read all of the notes in the all of the components before getting sta
 ## Deliverables
 Inspectors will be coming by to check that our patented Sushi Saga conveyor belt is working properly! Oh no! They will be checking the following:
 
-1. Sushi is properly received from the server
+1. Sushi list is properly received from the server
 2. Only 4 sushi are rendered at a time
-3. Clicking the "More Sushi!" button produces a new set of 4 sushi
-4. Clicking a sushi on a plate will eat the sushi, causing it to be removed from its plate and an empty plate to appear on the table. 
+3. Clicking the "More Sushi!" button shows the next set of 4 sushi in the list. For this assignment, you don't have to be concerned about what happens when you reach the end of the sushi list.
+4. Clicking a sushi on a plate will eat the sushi, causing it to be removed from its plate and an empty plate to appear on the table.
 5. We need to make money! Whenever a sushi is eaten, customers should be automatically charged! Based on a budget decided by you, the developer, the amount of money remaining should go down by the cost of the sushi that was eaten. There is a spot to display this number in the `Table` component
 6. No free meals! Customers cannot eat any sushi that exceeds the amount of money remaining in their balance
 
@@ -50,4 +50,3 @@ If and only if you have time, you may work on the following:
 3. Anything else!
 
 **Note:** If at the end of the challenge you have achieved all the functionality required but the style looks off, this is okay!
-
