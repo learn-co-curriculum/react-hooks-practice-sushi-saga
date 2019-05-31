@@ -1,10 +1,9 @@
 import React from 'react'
-import { connect } from 'react-redux'
 
 const MoreButton = (props) => {
-    return <button onClick={() => props.dispatch({ type: 'MORE_SUSHI' })}>
+    return <button onClick={/* Fill me in! */ null}>
             More sushi!
           </button>
 }
 
-export default connect()(MoreButton)
+export default MoreButton
