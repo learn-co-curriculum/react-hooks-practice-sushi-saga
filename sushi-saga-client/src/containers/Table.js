@@ -21,7 +21,7 @@ const Table = (props) => {
                and renders an empty plate
                for every element in the array
             */
-            renderPlates([])
+            renderPlates(props.eatenSushisArray)
           }
         </div>
       </div>
