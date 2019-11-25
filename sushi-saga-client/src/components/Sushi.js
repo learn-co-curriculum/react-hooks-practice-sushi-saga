@@ -7,10 +7,10 @@ const Sushi = (props) => {
            onClick={/* Give me a callback! */ null}>
         { 
           /* Tell me if this sushi has been eaten! */ 
-          true ?
+          false ?
             null
           :
-            <img src={/* Give me an image source! */} width="100%" />
+            <img src={/* Give me an image source! */ } width="100%" />
         }
       </div>
       <h4 className="sushi-details">
