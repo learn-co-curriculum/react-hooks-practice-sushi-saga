@@ -1,7 +1,7 @@
 import React from "react";
 import SushiWallet from "./SushiWallet";
 
-function Table({ wallet, onAddMoney, plates }) {
+function Table({ wallet, onAddMoney, plates = [] }) {
   const displayPlates = plates.map((_, index) => (
     <div key={index} className="empty-plate" style={{ top: -7 * index }} />
   ));
