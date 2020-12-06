@@ -31,7 +31,6 @@ to where and how to render those components properly.
 The component hierarchy should be as follows:
 
 - `App` is parent to both `SushiContainer` and `Table`
-- `Table` is a parent of `EmptyPlates`
 - `SushiContainer` is parent to both `Sushi` and `MoreButton`
 
 Be sure to read all of the notes in the all of the components before getting
