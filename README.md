@@ -1,4 +1,4 @@
-# Mod 4 Practice Code Challenge: Sushi Saga
+# Practice Challenge: Sushi Saga
 
 Welcome to Sushi Saga, where your journey to sushi is only just beginning!
 
