@@ -6,7 +6,7 @@ We've had a bit of trouble with our patented Sushi Saga conveyor belt system, so
 
 **Here's what it should look like:**
 
-![Sushi Saga](https://raw.githubusercontent.com/learn-co-curriculum/React-Practice-Code-Challenge/master/sushi-saga-demo.gif)
+![Sushi Saga](https://curriculum-content.s3.amazonaws.com/phase-2/react-hooks-practice-sushi-saga/sushi-saga-demo.gif)
 
 **Doesn't that look delicious?!**
 
