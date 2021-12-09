@@ -2,7 +2,8 @@
 
 Welcome to Sushi Saga, where your journey to sushi is only just beginning!
 
-We've had a bit of trouble with our patented Sushi Saga conveyor belt system, so before you can eat, you're going to have to help us get it working.
+We've had a bit of trouble with our patented Sushi Saga conveyor belt system, so
+before you can eat, you're going to have to help us get it working.
 
 **Here's what it should look like:**
 
@@ -72,4 +73,5 @@ If and only if you have time, you may work on the following:
    should remain eaten. It would be creepy if they reappeared!
 3. Anything else!
 
-**Note:** If at the end of the challenge you have achieved all the functionality required but the style looks off, this is okay!
+**Note:** If at the end of the challenge you have achieved all the functionality
+required but the style looks off, this is okay!
